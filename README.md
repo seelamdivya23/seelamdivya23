@@ -1,6 +1,18 @@
-# 💫 About Me:
-# 👋 Hi there, I'm S Divya Kumari<br><br>🎓 I'm a passionate Data Science and Machine Learning enthusiast with a strong interest in building real-world AI applications.<br><br>💻 I love working on projects using Python, Flask, and Scikit-learn.<br><br>🚀 Currently exploring advanced ML techniques and deploying models using Flask.<br><br>📫 Let's connect: divyaseelam83@gmail.com | +91 9502566698<br>
+<!-- About Me Section -->
+<h2>💫 About Me:</h2>
 
+<h2>👋 Hi there, I'm <strong>S Divya Kumari</strong></h2>
+
+<p>🎓 I'm a passionate <strong>Data Science</strong> and <strong>Machine Learning</strong> enthusiast with a strong interest in building real-world AI applications.</p>
+
+<p>💻 I love working on projects using <strong>Python</strong>, <strong>Flask</strong>, and <strong>Scikit-learn</strong>.</p>
+
+<p>🚀 Currently exploring advanced ML techniques and deploying models using Flask.</p>
+
+<p>📫 Let's connect: 
+  <a href="mailto:divyaseelam83@gmail.com">divyaseelam83@gmail.com</a> | 
+  <a href="tel:+919502566698">+91 9502566698</a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/seelam-divya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyaseelam83@gmail.com) 
