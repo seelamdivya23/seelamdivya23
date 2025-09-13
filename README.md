@@ -10,7 +10,7 @@
 <p>🚀 Currently exploring advanced ML techniques and deploying models using Flask.</p>
 
 <p>📫 Let's connect: 
-  <a href="mailto:divyaseelam83@gmail.com">divyaseelam83@gmail.com</a> | 
+  <a href="mailto:divyakumari.seelam@gmail.com">divyakumari.seelam@gmail.com</a> | 
   <a href="tel:+919502566698">+91 9502566698</a>
 </p>
 
